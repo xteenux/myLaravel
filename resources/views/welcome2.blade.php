@@ -9,7 +9,7 @@
     <h2><b>{{$first_name}} {{$last_name}}</b></h2>
     <h3><b>Terima kasih telah bergabung dengan SanberBook. Social Media kita bersama</b></h3>
     
-    <a href="/home">Back to Home</a>
+    <a href="/">Back to Home</a>
 
 </body>
 </html>
